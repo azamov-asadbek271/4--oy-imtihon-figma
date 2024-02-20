@@ -574,7 +574,11 @@ background-color: #002529;
 
 .footer_icons {
    margin-left: 200px;
+   gap: 10px;
+   display: flex;
+   cursor: pointer;
 }
+
 
 
 
