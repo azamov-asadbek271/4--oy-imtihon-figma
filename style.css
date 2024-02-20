@@ -700,6 +700,11 @@ background-color: #002529;
     background-color: var(--text-background);
     margin-bottom: -22px;
     margin-top: 30px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.about-collection-item-logo:hover {
+    background-color: #79C8C7;
 }
 .fa-plus {
     color: #002529;
@@ -913,6 +918,7 @@ textarea {
     border: none;
     color: #004047;
     transition: 0.4s;
+    cursor: pointer;
 }
 .button:hover {
     background-color: var(--btn-hover);
