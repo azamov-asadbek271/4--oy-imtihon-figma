@@ -167,11 +167,11 @@ body {
 /* main -Hero  */
 .main {
     flex-grow: 1;
+    background: var(--background);
 }
 
 
 .main-hero {
-    background: var(--background);
     position: relative;
     height: 75vh;
 }
@@ -957,4 +957,19 @@ textarea {
     height: 50px;
     right: 50px;
     top: 10px;
+}
+
+.fa-square-facebook {
+    font-size: 22px;
+}
+
+.fa-pinterest {
+    font-size: 22px;
+}
+
+.fa-square-twitter {
+    font-size: 22px;
+}
+.fa-instagram {
+    font-size: 22px;
 }
